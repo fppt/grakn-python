@@ -1,3 +1,4 @@
+@skip
 Feature: Delete Queries
     The user should be able to perform deletion queries which delete existing concepts from the graph
 

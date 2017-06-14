@@ -1,3 +1,4 @@
+@skip
 Feature: Insert Queries
     As a Grakn Developer I should be able to perform graql insert queries which write new concepts to the graph.
 

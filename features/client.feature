@@ -1,3 +1,4 @@
+@skip
 Feature: Client
     As a Grakn Developer I should be able to connect to a running Grakn Instance and use that instance to issue queries.
 
