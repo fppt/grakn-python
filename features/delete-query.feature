@@ -13,7 +13,7 @@ Feature: Delete Queries
         Then Return an error
 
     Scenario: Deleting Non-existant Concept
-        Given A random graph with data
+        Given A graph containing types and instances
         When The user delete a concept
         And The concept does not exist
         Then Return a response
